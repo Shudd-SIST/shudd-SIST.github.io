@@ -1,11 +1,27 @@
-## Dongdong Shu
+## Dongdong Shu (Email: shudd@shanghaitech.edu.cn)
 [<a href="https://scholar.google.com/citations?user=oxEYf0MAAAAJ&hl=zh-CN&oi=ao" target="_blank">Google scholar</a>], [<a href="https://www.researchgate.net/scientific-contributions/Dongdong-Shu-2157948095?_sg=S5t9PdhSz6SdbKdLjbKQ6kyRdaY75s1dTfqWfMDJWw4ZKw5YVjAyTCaUMDzP1E6dW29apg5jiUw9MWs" target="_blank">Researchgate</a>], [<a href="https://www.linkedin.com/in/%E5%86%AC%E5%86%AC-%E6%9D%9F-1a4988167/" target="_blank">Linkedin</a>]<br/>
 <a href="https://pearl.shanghaitech.edu.cn/" target="_blank">Power Electronics And Renewable energies Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
 <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a><br />
 <a href="http://sim.cas.cn/">Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences</a><br />
 ### About me
-I am now a Ph.D. candidate at ShanghaiTech University. I am also with the Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, and University of Chinese Academy of Sciences. My research advisor is Prof. Haoyu Wang. is revolved around modeling, simulating, prototyping, and validating power electronics systems in the applications of electrified transportation, renewable energies harvesting, smart home, power management of wearable devices and many more.
+I am now a Ph.D. candidate at Power Electronics And Renewable energies Laboratory. I am also with the Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, and University of Chinese Academy of Sciences. My research advisor is Prof. Haoyu Wang. The research in our laboratory is revolved around modeling, simulating, prototyping, and validating power electronics systems in the applications of electrified transportation, renewable energies harvesting, smart home, power management of wearable devices and many more. My research interest is in GaN power semiconductor and its applications in high frequency bidirectional dc/dc converters.
+
+### Education
+Ph.D. in Electronic Science and Technology, ShanghaiTech University/University of Chinese Academy of Sciences, Sept. 2018 - Present  
+B.E. in Automation, Northwestern Polytechnical University, Sept. 2012- Jun. 2016
+
+### Research Interest
+AC/DC converter     
+Resonant converter    
+Bidirectional DC/DC converter     
+GaN power semiconductor      
+High power density and high efficiency     
+
+
+### Awards
+Outstanding Student Scholarship of ShanghaiTech University in 2018, 2019, 2020 and 2021.   
+Outstanding Student Scholarship of Northwestern Polytechnical University in 2013.
 
 ### Publication
 
@@ -31,7 +47,11 @@ I am now a Ph.D. candidate at ShanghaiTech University. I am also with the Shangh
 -EE270: Modeling and control of power electronic converters, Fall 2020.  
 -SI200: Graduate thesis writing, Spring 2021
 
-### Peer-reviewing Activities
+### Professional Services
+#### Membership
+Student Member, IEEE, 2019.6-present.      
+Student Member, CPSS, 2020.1-present.
+#### Peer-reviewing Activities
 <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359240" target="_blank">IEEE Transactions on Power Electronics</a><br />
 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">IEEE Transactions on Industrial Electronics</a><br />
 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316" target="_blank">IEEE Transactions on Transportation Electrification</a><br />
