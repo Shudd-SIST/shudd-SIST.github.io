@@ -26,16 +26,16 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
 ### Publication
 
 <h3>Journal Papers</h3>
-[J5] M. Zhou, D. Shu, and H. Wang*,  "An H5-bridge based laddered CLLC DCX with variable DC-link for PEV charging applications," <em>IEEE Trans. Power Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9591480" target="_blank"> [URL]</a>         
-[J4] D. Shu, H. Wang*, and M. Zhou, "Universal control scheme to achieve seamless dynamic transition of dual-active-bridge converters using zero-current prediction," <em>IEEE Trans. Ind. Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9464635" target="_blank"> [URL]</a>       
+[J5] M. Zhou, D. Shu, and H. Wang*,  "An H5-bridge based laddered CLLC DCX with variable DC-link for PEV charging applications," <em>IEEE Trans. Power Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9591480" target="_blank"> [URL]</a>       
+[J4] D. Shu, H. Wang*, and M. Zhou, "Universal control scheme to achieve seamless dynamic transition of dual-active-bridge converters using zero-current prediction," <em>IEEE Trans. Ind. Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9464635" target="_blank"> [URL]</a>   
 [J3] D. Shu and H. Wang*, "Light load performance enhancement technique for LLC-based PEV charger through circuit reconfiguration," <em>IEEE Trans. Transp. Electrif.</em>, vol. 7, no. 4, pp. 2104-2113, Dec. 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9427258" target="_blank"> [URL]</a>     
 [J2] D. Shu and H. Wang*, "An ultra-wide output range <em>LLC</em> resonant converter based on adjustable turns ratio transformer and reconfigurable bridge," <em>IEEE Trans. Ind. Electron.</em>, vol. 68, no. 8, pp. 7115-7124, Aug. 2021. <a href="https://ieeexplore.ieee.org/document/9145821/" target="_blank"> [URL]</a>          
 [J1] H. Wang*, M. Shang, and D. Shu, "Design considerations of efficiency enhanced <em>LLC</em> PEV charger using reconfigurable transformer," <em>IEEE Trans. Veh. Technol.</em>, vol. 68, no. 9, pp. 8642-8651, Sept. 2019. <a href="https://ieeexplore.ieee.org/document/8770130" target="_blank"> [URL]</a>       
       
 <h3>Conference Papers</h3>
 [C3] M. Zhou, H. Wang*, and D. Shu, "Design methodology to reduce the lumped winding capacitance of spiral winding transformer in LLC converters," in <em>Proc. IEEE Energy Convers. Congr. Expo. (ECCE)</em>, Vancouver, BC, Oct. 2021. <a href="" target="_blank"> [URL]</a>       
-[C2] D. Shu, and H. Wang*, "An Adjustable Turns Ratio Transformer Based LLC Converter for Deeply-depleted PEV Charging Applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, New Orleans, LA, Mar. 2020, pp. 860-864. <a href="https://ieeexplore.ieee.org/abstract/document/9124450" target="_blank"> [URL]</a>
-[C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a> 
+[C2] D. Shu, and H. Wang*, "An Adjustable Turns Ratio Transformer Based LLC Converter for Deeply-depleted PEV Charging Applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, New Orleans, LA, Mar. 2020, pp. 860-864. <a href="https://ieeexplore.ieee.org/abstract/document/9124450" target="_blank"> [URL]</a>     
+[C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a>      
 
 <h3>Patent</h3>
 [P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/> 
