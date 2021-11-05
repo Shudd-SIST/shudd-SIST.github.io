@@ -26,7 +26,7 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
 ### Publication
 
 <h3>Journal Papers</h3>
-[J5] M. Zhou, D. Shu, and <u>H. Wang</u>*,  "An H5-bridge based laddered CLLC DCX with variable DC-link for PEV charging applications," <em>IEEE Trans. Power Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9591480" target="_blank"> [URL]</a><br/>      
+[J5] M. Zhou, D. Shu, and <u>H. Wang</u>*,  "An H5-bridge based laddered CLLC DCX with variable DC-link for PEV charging applications," <em>IEEE Trans. Power Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9591480" target="_blank"> [URL]</a>     
 [J4] D. Shu, <u>H. Wang</u>*, and M. Zhou, "Universal control scheme to achieve seamless dynamic transition of dual-active-bridge converters using zero-current prediction," <em>IEEE Trans. Ind. Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9464635" target="_blank"> [URL]</a><br/>     
 [J3] D. Shu and <u>H. Wang</u>*, "Light load performance enhancement technique for LLC-based PEV charger through circuit reconfiguration," <em>IEEE Trans. Transp. Electrif.</em>, vol. 7, no. 4, pp. 2104-2113, Dec. 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9427258" target="_blank"> [URL]</a><br/>   
 [J2] D. Shu and <u>H. Wang</u>*, "An ultra-wide output range <em>LLC</em> resonant converter based on adjustable turns ratio transformer and reconfigurable bridge," <em>IEEE Trans. Ind. Electron.</em>, vol. 68, no. 8, pp. 7115-7124, Aug. 2021. <a href="https://ieeexplore.ieee.org/document/9145821/" target="_blank"> [URL]</a><br/> 
