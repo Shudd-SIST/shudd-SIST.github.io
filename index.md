@@ -34,8 +34,8 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
       
 <h3>Conference Papers</h3>
 [C3] M. Zhou, H. Wang*, and D. Shu, "Design methodology to reduce the lumped winding capacitance of spiral winding transformer in LLC converters," in <em>Proc. IEEE Energy Convers. Congr. Expo. (ECCE)</em>, Vancouver, BC, Oct. 2021. <a href="" target="_blank"> [URL]</a>       
-[C2] D. Shu, and H. Wang*, "An Adjustable Turns Ratio Transformer Based LLC Converter for Deeply-depleted PEV Charging Applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, New Orleans, LA, Mar. 2020, pp. 860-864. <a href="https://ieeexplore.ieee.org/abstract/document/9124450" target="_blank"> [URL]</a><br/> 
-[C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a><br/>  
+[C2] D. Shu, and H. Wang*, "An Adjustable Turns Ratio Transformer Based LLC Converter for Deeply-depleted PEV Charging Applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, New Orleans, LA, Mar. 2020, pp. 860-864. <a href="https://ieeexplore.ieee.org/abstract/document/9124450" target="_blank"> [URL]</a>
+[C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a> 
 
 <h3>Patent</h3>
 [P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/> 
