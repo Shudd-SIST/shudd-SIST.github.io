@@ -25,7 +25,7 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
 
 ### Publication
 
-####<h3>Journal Papers</h3>
+#### Journal Papers
 [J5] M. Zhou, D. Shu, and H. Wang*,  "An H5-bridge based laddered CLLC DCX with variable DC-link for PEV charging applications," <em>IEEE Trans. Power Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9591480" target="_blank"> [URL]</a>       
 [J4] D. Shu, H. Wang*, and M. Zhou, "Universal control scheme to achieve seamless dynamic transition of dual-active-bridge converters using zero-current prediction," <em>IEEE Trans. Ind. Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9464635" target="_blank"> [URL]</a>   
 [J3] D. Shu and H. Wang*, "Light load performance enhancement technique for LLC-based PEV charger through circuit reconfiguration," <em>IEEE Trans. Transp. Electrif.</em>, vol. 7, no. 4, pp. 2104-2113, Dec. 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9427258" target="_blank"> [URL]</a>     
@@ -37,7 +37,7 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
 [C2] D. Shu, and H. Wang*, "An Adjustable Turns Ratio Transformer Based LLC Converter for Deeply-depleted PEV Charging Applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, New Orleans, LA, Mar. 2020, pp. 860-864. <a href="https://ieeexplore.ieee.org/abstract/document/9124450" target="_blank"> [URL]</a>         
 [C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a>         
 
-<h3>Patent</h3>
+#### Patent
 [P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/> 
 
 [P1] 束冬冬, 王浩宇, "一种改善双有源桥动态性能的新型通用四移相调制方法," 中国, 专利申请号202011526153.1, 2020年12月22日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>
