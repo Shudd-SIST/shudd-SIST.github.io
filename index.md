@@ -38,8 +38,7 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
 [C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a>         
 
 #### Patents
-[P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/> 
-
+[P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>     
 [P1] 束冬冬, 王浩宇, "一种改善双有源桥动态性能的新型通用四移相调制方法," 中国, 专利申请号202011526153.1, 2020年12月22日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>
 
 
