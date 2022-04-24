@@ -38,9 +38,9 @@ Outstanding Student Scholarship of Northwestern Polytechnical University in 2013
 [C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a>         
 
 #### Patents
-[P4] 束冬冬, 王浩宇, "下一代800V电池架构车载充电机输入低频纹波转移方法,"申请中.
+[P4] 束冬冬, 王浩宇, "下一代800V电池架构车载充电机输入低频纹波转移方法," 2022年4月24日, 申请中.
 
-[P3] 束冬冬, 王浩宇, "下一代800V电池架构高功率密度车载充电机实现方法,"申请中.
+[P3] 束冬冬, 王浩宇, "下一代800V电池架构高功率密度车载充电机实现方法," 2022年4月24日, 申请中.
 
 [P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>     
 [P1] 束冬冬, 王浩宇, "一种改善双有源桥动态性能的新型通用四移相调制方法," 中国, 专利申请号202011526153.1, 2020年12月22日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>
